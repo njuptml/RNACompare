@@ -69,14 +69,14 @@ stepsize=5; % only for Projected Gradient Algorithm
     
     
     
-    
-Qi Liu
-
-qiliu@tongji.edu.cn
-
-============================================================
-Last updated on Dec.1, 2009
-       
+  Lihua Tang   
+   
+  Tanglihua2002@163.com   
+  
+  ============================================================
+  
+  Last updated on Dec.19, 2016"
+       
     
       
 
